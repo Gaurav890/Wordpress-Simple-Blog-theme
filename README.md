@@ -18,3 +18,11 @@
   <li>Place the theme file on wordpress-installation-directory/wp-content/themes/<place - here></li>
   <li>Go to the Dashboard and install theme named="WordpressThemePractice" under appearance->theme section</li>
 </ol>
+
+<h2>What does it not include : </h2>
+<ul>
+  <li>Custom Walker</li>
+  <li>Custom Post</li>
+  <li>Custom Field</li>
+  <li>And many advanced Features</li>
+</ul>
